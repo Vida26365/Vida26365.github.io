@@ -20,6 +20,7 @@ async function fetchFiles() {
             fileList.appendChild(fileElement);
         }
     }
+    for_files(slovar);
 
 }
 
