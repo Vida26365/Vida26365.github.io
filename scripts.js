@@ -1,4 +1,4 @@
-json_path = "remarkable/metadata.json";
+const json_path = "remarkable/metadata.json";
 
 async function fetchFiles() {
     const response = await fetch(json_path);
@@ -7,7 +7,6 @@ async function fetchFiles() {
 
     function for_files(dict, path = '') {
         for (const folder in dict.folders) {
-            const folderElement = document.createElement("div");
             const folderPath = `${path}${folder}/`;
             for_files(dict.folders[folder].content, folderPath);
         }
@@ -20,8 +19,8 @@ async function fetchFiles() {
             fileList.appendChild(fileElement);
         }
     }
-    for_files(slovar);
 
+    for_files(slovar);
 }
 
 fetchFiles();
