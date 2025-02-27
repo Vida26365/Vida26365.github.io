@@ -28,7 +28,9 @@ async function fetchFiles() {
         fileGroups[folder].forEach(file => {
             const liElement = document.createElement("li");
             const linkElement = document.createElement("a");
-            linkElement.textContent = file.split('/').pop();
+            const fileName = file.split('/').pop(); // Extract the file name
+            fileName = fileName.replace('.pdf', ''); // Remove the .pdf extension
+            linkElement.textContent = fileName;
             linkElement.href = `remarkable/${file}`;
             linkElement.target = "_blank"; // Open in a new tab
             liElement.appendChild(linkElement);
