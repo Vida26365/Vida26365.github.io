@@ -10,7 +10,7 @@ def addapt_metadata(path):
     for sl in metadata.values():
         print(sl)
         pth = "/".join(sl["family"])
-        pth += "/" + sl["name"]
+        pth += "/" + sl["name"]+".pdf"
         lst.append(pth)
     slovar["files"] = lst
     return slovar
