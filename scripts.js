@@ -1,4 +1,4 @@
-const json_path = "remarkable/metadata2.json";
+const json_path = "remarkable/metadata.json";
 
 async function fetchFiles() {
     const response = await fetch(json_path);
@@ -8,9 +8,9 @@ async function fetchFiles() {
     const fileGroups = {};
 
     // Group files by their parent folder
-    data.files.forEach(file => {
-        const parts = file.split('/');
-        const folder = parts.slice(0, -1).join('/');
+    Object.keys(data).forEach(key => {
+        const file = data[key];
+        const folder = file.family.join('/');
         if (!fileGroups[folder]) {
             fileGroups[folder] = [];
         }
@@ -28,12 +28,16 @@ async function fetchFiles() {
         fileGroups[folder].forEach(file => {
             const liElement = document.createElement("li");
             const linkElement = document.createElement("a");
-            const fileName = file.split('/').pop(); // Extract the file name
-            fileName = fileName.replace('.pdf', ''); // Remove the .pdf extension
-            linkElement.textContent = fileName;
-            linkElement.href = `remarkable/${file}`;
+            linkElement.textContent = file.name;
+            linkElement.href = `remarkable/${file.name}.pdf`;
             linkElement.target = "_blank"; // Open in a new tab
+
+            const timeElement = document.createElement("div");
+            const lastModified = new Date(file["last modified"] * 1000).toLocaleString();
+            timeElement.textContent = `last modified: ${lastModified}`;
+
             liElement.appendChild(linkElement);
+            liElement.appendChild(timeElement);
             ulElement.appendChild(liElement);
         });
 
