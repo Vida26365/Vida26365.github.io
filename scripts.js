@@ -1,26 +1,19 @@
-const json_path = "remarkable/metadata.json";
+const json_path = "remarkable/metadata2.json";
 
 async function fetchFiles() {
     const response = await fetch(json_path);
-    const slovar = await response.json();
+    const data = await response.json();
     const fileList = document.getElementById('file-list');
 
-    function for_files(dict, path = '') {
-        for (const folder in dict.folders) {
-            const folderPath = `${path}${folder}/`;
-            for_files(dict.folders[folder].content, folderPath);
-        }
-        for (const file in dict.files) {
-            const fileElement = document.createElement("div");
-            const linkElement = document.createElement("a");
-            linkElement.textContent = file;
-            linkElement.href = `${path}${file}`;
-            fileElement.appendChild(linkElement);
-            fileList.appendChild(fileElement);
-        }
-    }
-
-    for_files(slovar);
+    data.files.forEach(file => {
+        const fileElement = document.createElement("div");
+        const linkElement = document.createElement("a");
+        linkElement.textContent = file;
+        linkElement.href = `remarkable/${file}`;
+        linkElement.target = "_blank"; // Open in a new tab
+        fileElement.appendChild(linkElement);
+        fileList.appendChild(fileElement);
+    });
 }
 
 fetchFiles();
