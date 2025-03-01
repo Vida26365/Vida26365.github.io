@@ -1,4 +1,4 @@
-const json_path = "remarkable/metadata.json";
+const json_path = "remarkable/zvezki/metadata.json";
 
 async function fetchFiles() {
     const response = await fetch(json_path);
@@ -34,7 +34,7 @@ async function fetchFiles() {
 
             const timeElement = document.createElement("div");
             const lastModified = new Date(file["last modified"] * 1000).toLocaleString();
-            timeElement.textContent = `last modified: ${lastModified}`;
+            timeElement.textContent = `nazadnje spremenjeno: ${lastModified}`;
 
             liElement.appendChild(linkElement);
             liElement.appendChild(timeElement);
