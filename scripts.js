@@ -29,7 +29,7 @@ async function fetchFiles() {
             const liElement = document.createElement("li");
             const linkElement = document.createElement("a");
             linkElement.textContent = file.name;
-            linkElement.href = `remarkable/${folder}/${file.name}.pdf`;
+            linkElement.href = `remarkable/zvezki/${folder}/${file.name}.pdf`;
             linkElement.target = "_blank"; // Open in a new tab
 
             const timeElement = document.createElement("div");
