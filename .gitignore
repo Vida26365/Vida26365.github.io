@@ -16,3 +16,6 @@ build/
 
 # Ignore specific JavaScript files
 # scripts.js
+
+__pycache__/
+*.pyc
