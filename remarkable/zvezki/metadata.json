@@ -80,8 +80,8 @@
         "family": [
             "Algebra 2"
         ],
-        "last modified": 1743154192.818,
-        "convertet time": 1743505232.9864006,
+        "last modified": 1743674380.946,
+        "convertet time": 1744133749.0150473,
         "pages": [
             {
                 "id": "00a00a2d-0bd9-4a1a-a6b8-d3353059b5f3",
@@ -2045,6 +2045,91 @@
                 "verticalScroll": {
                     "timestamp": "1:2",
                     "value": 1872
+                }
+            },
+            {
+                "id": "4ec49176-043f-4685-a494-b5dcdb7ba679",
+                "idx": {
+                    "timestamp": "1:2",
+                    "value": "ha"
+                },
+                "template": {
+                    "timestamp": "1:2",
+                    "value": "P Dots S"
+                }
+            },
+            {
+                "id": "3d111f92-3324-43f3-9460-1502b0c1ecc6",
+                "idx": {
+                    "timestamp": "1:2",
+                    "value": "hb"
+                },
+                "template": {
+                    "timestamp": "1:2",
+                    "value": "P Dots S"
+                }
+            },
+            {
+                "id": "c9353b6a-85ea-4240-8bf2-86ea7a889e5c",
+                "idx": {
+                    "timestamp": "1:2",
+                    "value": "hc"
+                },
+                "scrollTime": {
+                    "timestamp": "1:1",
+                    "value": "2025-04-03T08:53:38Z"
+                },
+                "template": {
+                    "timestamp": "1:2",
+                    "value": "P Dots S"
+                },
+                "verticalScroll": {
+                    "timestamp": "1:1",
+                    "value": 1872
+                }
+            },
+            {
+                "id": "39435c23-8f89-4c58-ad93-7af712300dee",
+                "idx": {
+                    "timestamp": "1:2",
+                    "value": "hd"
+                },
+                "template": {
+                    "timestamp": "1:2",
+                    "value": "P Dots S"
+                }
+            },
+            {
+                "id": "fcd4ad6f-e200-4c6d-a28a-1d11af133b1e",
+                "idx": {
+                    "timestamp": "1:2",
+                    "value": "he"
+                },
+                "template": {
+                    "timestamp": "1:2",
+                    "value": "P Dots S"
+                }
+            },
+            {
+                "id": "0b33e72d-8ebb-4ded-90f1-db3f6bb966e8",
+                "idx": {
+                    "timestamp": "1:2",
+                    "value": "hf"
+                },
+                "template": {
+                    "timestamp": "1:2",
+                    "value": "P Dots S"
+                }
+            },
+            {
+                "id": "6aeab9ee-d0f6-4dbe-a0ef-248d83ef13e2",
+                "idx": {
+                    "timestamp": "1:2",
+                    "value": "hg"
+                },
+                "template": {
+                    "timestamp": "1:2",
+                    "value": "P Dots S"
                 }
             }
         ]
@@ -6258,8 +6343,8 @@
         "family": [
             "Analiza 2b"
         ],
-        "last modified": 1743592926.105,
-        "convertet time": 1743607561.842518,
+        "last modified": 1743667383.939,
+        "convertet time": 1744133767.3495595,
         "pages": [
             {
                 "id": "22a37533-ff15-4692-a3b1-b5fcc6bab627",
@@ -6514,6 +6599,61 @@
                     "timestamp": "1:1",
                     "value": 4785
                 }
+            },
+            {
+                "id": "ea6bb55e-275b-4938-8fe6-3939c0a3b86d",
+                "idx": {
+                    "timestamp": "1:2",
+                    "value": "bs"
+                },
+                "template": {
+                    "timestamp": "1:4",
+                    "value": "P Grid medium"
+                }
+            },
+            {
+                "id": "93485dc2-55f0-4442-8c77-717a89479af4",
+                "idx": {
+                    "timestamp": "1:2",
+                    "value": "bt"
+                },
+                "template": {
+                    "timestamp": "1:2",
+                    "value": "P Grid medium"
+                }
+            },
+            {
+                "id": "91ccb8db-a1f3-4895-97c7-7cb4aca2dde8",
+                "idx": {
+                    "timestamp": "1:2",
+                    "value": "bu"
+                },
+                "template": {
+                    "timestamp": "1:2",
+                    "value": "P Grid medium"
+                }
+            },
+            {
+                "id": "a1503e9c-9e00-4f23-949d-58a4a64bdd3e",
+                "idx": {
+                    "timestamp": "1:2",
+                    "value": "bv"
+                },
+                "template": {
+                    "timestamp": "1:2",
+                    "value": "P Grid medium"
+                }
+            },
+            {
+                "id": "2fadb486-575d-4d05-ac71-c307166f1c4b",
+                "idx": {
+                    "timestamp": "1:2",
+                    "value": "bw"
+                },
+                "template": {
+                    "timestamp": "1:2",
+                    "value": "P Grid medium"
+                }
             }
         ]
     },
@@ -6708,8 +6848,8 @@
         "family": [
             "Algebra 2"
         ],
-        "last modified": 1743159565.722,
-        "convertet time": 1743505253.782665,
+        "last modified": 1743760722.295,
+        "convertet time": 1744133759.2289546,
         "pages": [
             {
                 "id": "b08b8b12-c79f-4f3e-bdaf-a00aa5b74248",
@@ -8334,6 +8474,72 @@
                     "timestamp": "1:2",
                     "value": "P Dots S"
                 }
+            },
+            {
+                "id": "5d6b175d-4999-4833-a07f-fb22b97f62ec",
+                "idx": {
+                    "timestamp": "1:2",
+                    "value": "fy"
+                },
+                "template": {
+                    "timestamp": "1:2",
+                    "value": "P Dots S"
+                }
+            },
+            {
+                "id": "1740a5ff-518c-4741-a63e-7f6333890e12",
+                "idx": {
+                    "timestamp": "1:2",
+                    "value": "fz"
+                },
+                "template": {
+                    "timestamp": "1:2",
+                    "value": "P Dots S"
+                }
+            },
+            {
+                "id": "face133c-fef1-4b59-b4c8-d951cd2e9c36",
+                "idx": {
+                    "timestamp": "1:2",
+                    "value": "ga"
+                },
+                "template": {
+                    "timestamp": "1:2",
+                    "value": "P Dots S"
+                }
+            },
+            {
+                "id": "bcd7432b-cdf3-4f0e-a561-24bef146c41d",
+                "idx": {
+                    "timestamp": "1:2",
+                    "value": "gb"
+                },
+                "template": {
+                    "timestamp": "1:2",
+                    "value": "P Dots S"
+                }
+            },
+            {
+                "id": "1ed53b6e-7eba-423e-bc3f-c0dc025423df",
+                "idx": {
+                    "timestamp": "1:2",
+                    "value": "gc"
+                },
+                "template": {
+                    "timestamp": "1:2",
+                    "value": "P Dots S"
+                }
+            },
+            {
+                "id": "732c37a8-2e42-4e9d-96d0-6280a78ce20e",
+                "idx": {
+                    "timestamp": "1:2",
+                    "value": "gd"
+                },
+                "template": {
+                    "timestamp": "1:2",
+                    "value": "P Dots S"
+                }
             }
         ]
     },
@@ -9164,8 +9370,8 @@
         "family": [
             "Uvod v geometrijsko topologijo"
         ],
-        "last modified": 1743508287.584,
-        "convertet time": 1743592431.8662255,
+        "last modified": 1744113562.297,
+        "convertet time": 1744133776.564181,
         "pages": [
             {
                 "id": "1d5b7b85-8207-467d-863a-bd40e16687f1",
@@ -9391,6 +9597,72 @@
                 "idx": {
                     "timestamp": "1:2",
                     "value": "br"
+                },
+                "template": {
+                    "timestamp": "1:2",
+                    "value": "P Dots S"
+                }
+            },
+            {
+                "id": "6adbc88e-cf30-430e-a010-7affe363e7d4",
+                "idx": {
+                    "timestamp": "1:2",
+                    "value": "bs"
+                },
+                "template": {
+                    "timestamp": "1:2",
+                    "value": "P Dots S"
+                }
+            },
+            {
+                "id": "c534d683-18ff-4d61-85fc-8677be9d3c34",
+                "idx": {
+                    "timestamp": "1:2",
+                    "value": "bt"
+                },
+                "template": {
+                    "timestamp": "1:2",
+                    "value": "P Dots S"
+                }
+            },
+            {
+                "id": "79c455e5-55c9-4a11-b3fe-866b280ae8ec",
+                "idx": {
+                    "timestamp": "1:2",
+                    "value": "bu"
+                },
+                "template": {
+                    "timestamp": "1:2",
+                    "value": "P Dots S"
+                }
+            },
+            {
+                "id": "7af8de32-2411-4fdc-8028-6f5340130a1c",
+                "idx": {
+                    "timestamp": "1:2",
+                    "value": "bv"
+                },
+                "template": {
+                    "timestamp": "1:2",
+                    "value": "P Dots S"
+                }
+            },
+            {
+                "id": "a782851d-56b6-4e61-a69a-d1a9ac187fd8",
+                "idx": {
+                    "timestamp": "1:2",
+                    "value": "bw"
+                },
+                "template": {
+                    "timestamp": "1:2",
+                    "value": "P Dots S"
+                }
+            },
+            {
+                "id": "94ac2be1-9182-4680-a36b-d47d8513161e",
+                "idx": {
+                    "timestamp": "1:2",
+                    "value": "bx"
                 },
                 "template": {
                     "timestamp": "1:2",
@@ -9639,8 +9911,8 @@
         "family": [
             "Fizika 2"
         ],
-        "last modified": 1743608047.016,
-        "convertet time": 1743608060.2027457,
+        "last modified": 1744050644.895,
+        "convertet time": 1744133730.693537,
         "pages": [
             {
                 "id": "9a58d23d-49ce-43e5-bd21-53066ce2bb58",
@@ -9649,15 +9921,15 @@
                     "value": "ba"
                 },
                 "scrollTime": {
-                    "timestamp": "1:1",
-                    "value": "2025-04-02T12:25:01Z"
+                    "timestamp": "1:2",
+                    "value": "2025-04-07T14:55:27Z"
                 },
                 "template": {
                     "timestamp": "1:1",
                     "value": "P Dots S"
                 },
                 "verticalScroll": {
-                    "timestamp": "1:1",
+                    "timestamp": "1:2",
                     "value": 1872
                 }
             },
