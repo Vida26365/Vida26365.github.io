@@ -21746,5 +21746,213 @@
                 }
             }
         ]
+    },
+    "4207f29f-cd60-4611-851e-b219621c8c5e": {
+        "name": "Predavanja",
+        "family": [
+            "Analiza4"
+        ],
+        "last modified": 1771412456.328,
+        "convertet time": 1771420381.1090877,
+        "pages": [
+            {
+                "id": "b9897b42-17d7-4379-9176-1a59c150d0ad",
+                "idx": {
+                    "timestamp": "1:2",
+                    "value": "ba"
+                },
+                "modifed": "1771406502510",
+                "template": {
+                    "timestamp": "1:1",
+                    "value": "P Lines medium"
+                }
+            },
+            {
+                "id": "93368905-2efd-411d-b1e5-39781c8c8306",
+                "idx": {
+                    "timestamp": "1:2",
+                    "value": "bb"
+                },
+                "modifed": "1771408848897",
+                "scrollTime": {
+                    "timestamp": "1:1",
+                    "value": "2026-02-18T10:09:57Z"
+                },
+                "template": {
+                    "timestamp": "1:2",
+                    "value": "P Lines medium"
+                },
+                "verticalScroll": {
+                    "timestamp": "1:1",
+                    "value": 1872
+                }
+            },
+            {
+                "id": "74620210-8105-449c-bf7f-c0d6225e5451",
+                "idx": {
+                    "timestamp": "1:2",
+                    "value": "bc"
+                },
+                "modifed": "1771408841201",
+                "scrollTime": {
+                    "timestamp": "1:1",
+                    "value": "2026-02-18T10:00:34Z"
+                },
+                "template": {
+                    "timestamp": "1:2",
+                    "value": "P Lines medium"
+                },
+                "verticalScroll": {
+                    "timestamp": "1:1",
+                    "value": 1872
+                }
+            },
+            {
+                "id": "fc27c901-be7b-40ab-9dda-5242d831b57b",
+                "idx": {
+                    "timestamp": "1:2",
+                    "value": "bd"
+                },
+                "modifed": "1771410419160",
+                "template": {
+                    "timestamp": "1:2",
+                    "value": "P Lines medium"
+                }
+            },
+            {
+                "id": "dac6572e-6ba0-49d3-bb11-ff1a9ac016fc",
+                "idx": {
+                    "timestamp": "1:2",
+                    "value": "be"
+                },
+                "modifed": "1771410988993",
+                "template": {
+                    "timestamp": "1:2",
+                    "value": "P Lines medium"
+                }
+            },
+            {
+                "id": "49fb78af-ec98-48f3-9960-7a209c9d390e",
+                "idx": {
+                    "timestamp": "1:2",
+                    "value": "bf"
+                },
+                "modifed": "1771412456335",
+                "template": {
+                    "timestamp": "1:2",
+                    "value": "P Lines medium"
+                }
+            }
+        ]
+    },
+    "c3c99d64-5e8c-4e39-b42b-d30d5ecdc7de": {
+        "name": "Predavanja",
+        "family": [
+            "Logika v ra\u010dunalni\u0161tvu"
+        ],
+        "last modified": 1771402424.055,
+        "convertet time": 1771420395.1122959,
+        "pages": [
+            {
+                "id": "8828d9aa-a390-40f0-8f1d-2ab3d1873843",
+                "idx": {
+                    "timestamp": "1:2",
+                    "value": "ba"
+                },
+                "modifed": "1771313059160",
+                "template": {
+                    "timestamp": "1:1",
+                    "value": "P Lines medium"
+                }
+            },
+            {
+                "id": "bb4bde83-c50e-4808-9ffd-d6a7f378fbc0",
+                "idx": {
+                    "timestamp": "1:2",
+                    "value": "bb"
+                },
+                "modifed": "1771314336167",
+                "template": {
+                    "timestamp": "1:2",
+                    "value": "P Lines medium"
+                }
+            },
+            {
+                "id": "74c05ce7-8019-4eb8-b1be-9bae48e3659b",
+                "idx": {
+                    "timestamp": "1:2",
+                    "value": "bc"
+                },
+                "modifed": "1771315237168",
+                "template": {
+                    "timestamp": "1:2",
+                    "value": "P Lines medium"
+                }
+            },
+            {
+                "id": "33e5a8e8-bf58-4c10-9798-c3745a3c2b02",
+                "idx": {
+                    "timestamp": "1:2",
+                    "value": "bd"
+                },
+                "modifed": "1771318571491",
+                "scrollTime": {
+                    "timestamp": "1:3",
+                    "value": "2026-02-18T08:13:19Z"
+                },
+                "template": {
+                    "timestamp": "1:2",
+                    "value": "P Lines medium"
+                },
+                "verticalScroll": {
+                    "timestamp": "1:3",
+                    "value": 1872
+                }
+            },
+            {
+                "id": "2a7e621a-c22e-41ab-adfa-d9bc57518734",
+                "idx": {
+                    "timestamp": "1:2",
+                    "value": "be"
+                },
+                "modifed": "1771319007167",
+                "template": {
+                    "timestamp": "1:2",
+                    "value": "P Lines medium"
+                }
+            },
+            {
+                "id": "d86621f9-574c-45ae-99ea-67607082cfcc",
+                "idx": {
+                    "timestamp": "1:2",
+                    "value": "bf"
+                },
+                "modifed": "1771322170049",
+                "scrollTime": {
+                    "timestamp": "1:1",
+                    "value": "2026-02-17T09:43:52Z"
+                },
+                "template": {
+                    "timestamp": "1:2",
+                    "value": "P Lines medium"
+                },
+                "verticalScroll": {
+                    "timestamp": "1:1",
+                    "value": 1987
+                }
+            },
+            {
+                "id": "a43c5e3f-b79b-458f-8a54-c974402c9d76",
+                "idx": {
+                    "timestamp": "1:2",
+                    "value": "bg"
+                },
+                "modifed": "1771322419048",
+                "template": {
+                    "timestamp": "1:2",
+                    "value": "P Lines medium"
+                }
+            }
+        ]
     }
 }
