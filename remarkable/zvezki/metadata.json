@@ -21752,8 +21752,8 @@
         "family": [
             "Analiza4"
         ],
-        "last modified": 1771412456.328,
-        "convertet time": 1771420381.1090877,
+        "last modified": 1771588783.821,
+        "convertet time": 1771616979.3063061,
         "pages": [
             {
                 "id": "b9897b42-17d7-4379-9176-1a59c150d0ad",
@@ -21838,6 +21838,42 @@
                     "value": "bf"
                 },
                 "modifed": "1771412456335",
+                "template": {
+                    "timestamp": "1:2",
+                    "value": "P Lines medium"
+                }
+            },
+            {
+                "id": "e78fb1b5-9c93-4d98-a196-6fd8b94ea4b8",
+                "idx": {
+                    "timestamp": "1:2",
+                    "value": "bg"
+                },
+                "modifed": "1771586685831",
+                "template": {
+                    "timestamp": "1:2",
+                    "value": "P Lines medium"
+                }
+            },
+            {
+                "id": "d3a92bfa-e3ef-40ac-b370-22ff1c25144d",
+                "idx": {
+                    "timestamp": "1:2",
+                    "value": "bh"
+                },
+                "modifed": "1771588351845",
+                "template": {
+                    "timestamp": "1:2",
+                    "value": "P Lines medium"
+                }
+            },
+            {
+                "id": "9bd13307-cb46-4aec-becf-c4b28f2f76bb",
+                "idx": {
+                    "timestamp": "1:2",
+                    "value": "bi"
+                },
+                "modifed": "1771588783829",
                 "template": {
                     "timestamp": "1:2",
                     "value": "P Lines medium"
@@ -21948,6 +21984,298 @@
                     "value": "bg"
                 },
                 "modifed": "1771322419048",
+                "template": {
+                    "timestamp": "1:2",
+                    "value": "P Lines medium"
+                }
+            }
+        ]
+    },
+    "681f2f76-98a0-41ea-838e-777299f7aea8": {
+        "name": "Vaje",
+        "family": [
+            "Analiza4"
+        ],
+        "last modified": 1771591924.03,
+        "convertet time": 1771617011.830411,
+        "pages": [
+            {
+                "id": "4fc095c6-b292-4357-8723-2264eab53fe9",
+                "idx": {
+                    "timestamp": "1:2",
+                    "value": "ba"
+                },
+                "modifed": "1771485974120",
+                "template": {
+                    "timestamp": "1:1",
+                    "value": "P Lines medium"
+                }
+            },
+            {
+                "id": "0fb3f514-4ff2-4d79-b8d8-88c338b9c5cf",
+                "idx": {
+                    "timestamp": "1:2",
+                    "value": "bb"
+                },
+                "modifed": "1771486518641",
+                "template": {
+                    "timestamp": "1:2",
+                    "value": "P Lines medium"
+                }
+            },
+            {
+                "id": "4b56ac56-7883-4c28-a299-67b2d429c20b",
+                "idx": {
+                    "timestamp": "1:2",
+                    "value": "bc"
+                },
+                "modifed": "1771487171127",
+                "template": {
+                    "timestamp": "1:2",
+                    "value": "P Lines medium"
+                }
+            },
+            {
+                "id": "d9282f99-1df1-4d5d-8696-e9b04974db1d",
+                "idx": {
+                    "timestamp": "1:2",
+                    "value": "bd"
+                },
+                "modifed": "1771489016816",
+                "template": {
+                    "timestamp": "1:2",
+                    "value": "P Lines medium"
+                }
+            },
+            {
+                "id": "9fb90eee-31fd-4bef-994f-02e77d0facbf",
+                "idx": {
+                    "timestamp": "1:2",
+                    "value": "be"
+                },
+                "modifed": "1771489988815",
+                "template": {
+                    "timestamp": "1:2",
+                    "value": "P Lines medium"
+                }
+            },
+            {
+                "id": "d7f1d382-098c-46d4-8d0d-8f5f2c428721",
+                "idx": {
+                    "timestamp": "1:2",
+                    "value": "bf"
+                },
+                "modifed": "1771491739822",
+                "template": {
+                    "timestamp": "1:2",
+                    "value": "P Lines medium"
+                }
+            },
+            {
+                "id": "29f64fdf-cf66-45fa-a2d0-97b5042eb050",
+                "idx": {
+                    "timestamp": "1:2",
+                    "value": "bg"
+                },
+                "modifed": "1771590239036",
+                "template": {
+                    "timestamp": "1:2",
+                    "value": "P Lines medium"
+                }
+            },
+            {
+                "id": "79e0af12-39b3-403e-9d54-2d6bc10a2a8a",
+                "idx": {
+                    "timestamp": "1:2",
+                    "value": "bh"
+                },
+                "modifed": "1771591149040",
+                "template": {
+                    "timestamp": "1:2",
+                    "value": "P Lines medium"
+                }
+            },
+            {
+                "id": "658fcbcd-21ee-4574-948f-5ea6413f8e1a",
+                "idx": {
+                    "timestamp": "1:2",
+                    "value": "bi"
+                },
+                "modifed": "1771591924037",
+                "template": {
+                    "timestamp": "1:2",
+                    "value": "P Lines medium"
+                }
+            }
+        ]
+    },
+    "94cb2892-3483-4874-855e-618390048f86": {
+        "name": "Predavanja",
+        "family": [
+            "Psa2"
+        ],
+        "last modified": 1771506151.673,
+        "convertet time": 1771617028.1501145,
+        "pages": [
+            {
+                "id": "367b2b8e-18d2-4ac7-aa8d-13a4ac073147",
+                "idx": {
+                    "timestamp": "1:2",
+                    "value": "ba"
+                },
+                "modifed": "1771500851895",
+                "template": {
+                    "timestamp": "1:1",
+                    "value": "P Lines medium"
+                }
+            },
+            {
+                "id": "b34a7fee-4622-418b-9600-142e9457c545",
+                "idx": {
+                    "timestamp": "1:2",
+                    "value": "bb"
+                },
+                "modifed": "1771504177675",
+                "template": {
+                    "timestamp": "1:2",
+                    "value": "P Lines medium"
+                }
+            },
+            {
+                "id": "8f7a6eac-9385-4556-a096-dd774ae99ff3",
+                "idx": {
+                    "timestamp": "1:2",
+                    "value": "bc"
+                },
+                "modifed": "1771506151680",
+                "template": {
+                    "timestamp": "1:2",
+                    "value": "P Lines medium"
+                }
+            }
+        ]
+    },
+    "a620285b-65d1-4d24-a17d-3e945f229b0e": {
+        "name": "Vaje",
+        "family": [
+            "Logika v ra\u010dunalni\u0161tvu"
+        ],
+        "last modified": 1771577537.864,
+        "convertet time": 1771617041.289554,
+        "pages": [
+            {
+                "id": "993fce5c-3aff-47cf-83b5-a4e56a24dcaf",
+                "idx": {
+                    "timestamp": "1:2",
+                    "value": "ba"
+                },
+                "modifed": "1771574298361",
+                "template": {
+                    "timestamp": "1:1",
+                    "value": "P Dots S"
+                }
+            },
+            {
+                "id": "95e10ab3-9d99-45fc-8af5-b7ad90798b91",
+                "idx": {
+                    "timestamp": "1:2",
+                    "value": "bb"
+                },
+                "modifed": "1771576819453",
+                "template": {
+                    "timestamp": "1:2",
+                    "value": "P Dots S"
+                }
+            },
+            {
+                "id": "15fbac81-fa01-424a-a4fa-92d6e01ada13",
+                "idx": {
+                    "timestamp": "1:2",
+                    "value": "bc"
+                },
+                "modifed": "1771577537865",
+                "template": {
+                    "timestamp": "1:2",
+                    "value": "P Dots S"
+                }
+            }
+        ]
+    },
+    "b7c49204-6620-49b1-8f4f-02c089aad6d9": {
+        "name": "Vaje",
+        "family": [
+            "Statistika"
+        ],
+        "last modified": 1771585232.148,
+        "convertet time": 1771617065.5669627,
+        "pages": [
+            {
+                "id": "d8f90556-fc50-464f-b4ac-f198f28f3539",
+                "idx": {
+                    "timestamp": "1:2",
+                    "value": "ba"
+                },
+                "modifed": "1771579742404",
+                "template": {
+                    "timestamp": "1:1",
+                    "value": "P Lines medium"
+                }
+            },
+            {
+                "id": "d0cdc0ac-56b7-4d42-9106-3be92cbb310a",
+                "idx": {
+                    "timestamp": "1:2",
+                    "value": "bb"
+                },
+                "modifed": "1771580728389",
+                "template": {
+                    "timestamp": "1:2",
+                    "value": "P Lines medium"
+                }
+            },
+            {
+                "id": "c316efe9-9a96-489a-8927-656d000be324",
+                "idx": {
+                    "timestamp": "1:2",
+                    "value": "bc"
+                },
+                "modifed": "1771581305387",
+                "template": {
+                    "timestamp": "1:2",
+                    "value": "P Lines medium"
+                }
+            },
+            {
+                "id": "d9fe4190-2c0f-426c-88a4-950f022b8256",
+                "idx": {
+                    "timestamp": "1:2",
+                    "value": "bd"
+                },
+                "modifed": "1771583589586",
+                "template": {
+                    "timestamp": "1:2",
+                    "value": "P Lines medium"
+                }
+            },
+            {
+                "id": "eebfa595-66e8-47bb-88ab-21955ebdab20",
+                "idx": {
+                    "timestamp": "1:2",
+                    "value": "be"
+                },
+                "modifed": "1771584866550",
+                "template": {
+                    "timestamp": "1:2",
+                    "value": "P Lines medium"
+                }
+            },
+            {
+                "id": "46e06da3-5e61-4c72-abc7-709cc8b1015d",
+                "idx": {
+                    "timestamp": "1:2",
+                    "value": "bf"
+                },
+                "modifed": "1771585232154",
                 "template": {
                     "timestamp": "1:2",
                     "value": "P Lines medium"
