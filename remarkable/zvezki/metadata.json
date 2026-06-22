@@ -29366,586 +29366,666 @@
         "family": [
             "Analiza4"
         ],
-        "last modified": 1781883713.999,
-        "convertet time": 1781883826.0847962,
+        "last modified": 1782161447.602,
+        "convertet time": 1782167511.6046166,
         "pages": [
             {
                 "id": "62be2fb3-a0af-439c-8fc7-15a49dece064",
                 "idx": {
-                    "timestamp": "2:2",
+                    "timestamp": "1:2",
                     "value": "ba"
                 },
-                "modifed": "1781535014682",
+                "modifed": "1782161447606",
+                "scrollTime": {
+                    "timestamp": "1:1",
+                    "value": "2026-06-22T20:51:02Z"
+                },
                 "template": {
-                    "timestamp": "2:1",
+                    "timestamp": "1:1",
                     "value": "P Margin medium"
+                },
+                "verticalScroll": {
+                    "timestamp": "1:1",
+                    "value": 3370
                 }
             },
             {
                 "id": "73182214-5731-4db0-aa30-e78aca427564",
                 "idx": {
-                    "timestamp": "2:2",
+                    "timestamp": "1:2",
                     "value": "bb"
                 },
                 "modifed": "1781548777783",
                 "scrollTime": {
-                    "timestamp": "2:2",
+                    "timestamp": "1:2",
                     "value": "2026-06-15T18:39:37Z"
                 },
                 "template": {
-                    "timestamp": "2:2",
+                    "timestamp": "1:2",
                     "value": "P Margin medium"
                 },
                 "verticalScroll": {
-                    "timestamp": "2:2",
+                    "timestamp": "1:2",
                     "value": 1872
                 }
             },
             {
                 "id": "18aa70e5-551b-4c9a-a11a-352e9ce6d8ba",
                 "idx": {
-                    "timestamp": "2:2",
+                    "timestamp": "1:2",
                     "value": "bc"
                 },
                 "modifed": "1781525660059",
                 "scrollTime": {
-                    "timestamp": "2:1",
+                    "timestamp": "1:1",
                     "value": "2026-06-15T12:14:59Z"
                 },
                 "template": {
-                    "timestamp": "2:2",
+                    "timestamp": "1:2",
                     "value": "P Margin medium"
                 },
                 "verticalScroll": {
-                    "timestamp": "2:1",
+                    "timestamp": "1:1",
                     "value": 1872
                 }
             },
             {
                 "id": "ee01d8d6-51f5-48a2-a648-6ac1f393a742",
                 "idx": {
-                    "timestamp": "2:2",
+                    "timestamp": "1:2",
                     "value": "bd"
                 },
                 "modifed": "1781548814042",
                 "template": {
-                    "timestamp": "2:2",
+                    "timestamp": "1:2",
                     "value": "P Margin medium"
                 }
             },
             {
                 "id": "9bde9a7f-e799-4cb9-b988-0eef1116af83",
                 "idx": {
-                    "timestamp": "2:2",
+                    "timestamp": "1:2",
                     "value": "be"
                 },
                 "modifed": "1781533145636",
                 "template": {
-                    "timestamp": "2:2",
+                    "timestamp": "1:2",
                     "value": "P Margin medium"
                 }
             },
             {
                 "id": "9c040989-5470-441c-a8c6-90a1d2314e5f",
                 "idx": {
-                    "timestamp": "2:2",
+                    "timestamp": "1:2",
                     "value": "bf"
                 },
                 "modifed": "1781534902042",
                 "template": {
-                    "timestamp": "2:2",
+                    "timestamp": "1:2",
                     "value": "P Margin medium"
                 }
             },
             {
                 "id": "8a85469a-e3ba-45e1-b0b8-f93105522d6b",
                 "idx": {
-                    "timestamp": "2:2",
+                    "timestamp": "1:2",
                     "value": "bg"
                 },
                 "modifed": "1781542287347",
                 "scrollTime": {
-                    "timestamp": "2:1",
-                    "value": "2026-06-15T18:31:50Z"
+                    "timestamp": "1:3",
+                    "value": "2026-06-22T09:48:29Z"
                 },
                 "template": {
-                    "timestamp": "2:2",
+                    "timestamp": "1:2",
                     "value": "P Margin medium"
                 },
                 "verticalScroll": {
-                    "timestamp": "2:1",
+                    "timestamp": "1:3",
                     "value": 1872
                 }
             },
             {
                 "id": "52b8bea1-5df1-4685-8e96-a5483e8acbb2",
                 "idx": {
-                    "timestamp": "2:2",
+                    "timestamp": "1:2",
                     "value": "bh"
                 },
                 "modifed": "1781548840468",
                 "scrollTime": {
-                    "timestamp": "2:4",
-                    "value": "2026-06-15T19:11:05Z"
+                    "timestamp": "1:6",
+                    "value": "2026-06-22T10:06:57Z"
                 },
                 "template": {
-                    "timestamp": "2:2",
+                    "timestamp": "1:2",
                     "value": "P Margin medium"
                 },
                 "verticalScroll": {
-                    "timestamp": "2:4",
+                    "timestamp": "1:6",
                     "value": 1872
                 }
             },
             {
                 "id": "9d2551f2-e5ef-45d4-88a9-9cd2a31d0b76",
                 "idx": {
-                    "timestamp": "2:2",
+                    "timestamp": "1:2",
                     "value": "bi"
                 },
                 "modifed": "1781549783249",
+                "scrollTime": {
+                    "timestamp": "1:2",
+                    "value": "2026-06-22T10:08:35Z"
+                },
                 "template": {
-                    "timestamp": "2:2",
+                    "timestamp": "1:2",
                     "value": "P Margin medium"
+                },
+                "verticalScroll": {
+                    "timestamp": "1:2",
+                    "value": 1872
                 }
             },
             {
                 "id": "089f588a-0a2a-4c24-9643-6e1b830dd55e",
                 "idx": {
-                    "timestamp": "2:2",
+                    "timestamp": "1:2",
                     "value": "bj"
                 },
                 "modifed": "1781551688478",
                 "template": {
-                    "timestamp": "2:2",
+                    "timestamp": "1:2",
                     "value": "P Margin medium"
                 }
             },
             {
                 "id": "9b3558e7-4647-499b-8767-fe8050c2b1dc",
                 "idx": {
-                    "timestamp": "2:2",
+                    "timestamp": "1:2",
                     "value": "bk"
                 },
-                "modifed": "1781553080642",
+                "modifed": "1782123168319",
                 "template": {
-                    "timestamp": "2:2",
+                    "timestamp": "1:2",
                     "value": "P Margin medium"
                 }
             },
             {
                 "id": "327aff0b-95a4-4d86-90df-e00c4c1bcc83",
                 "idx": {
-                    "timestamp": "2:2",
+                    "timestamp": "1:2",
                     "value": "bl"
                 },
                 "modifed": "1781556265698",
+                "scrollTime": {
+                    "timestamp": "1:2",
+                    "value": "2026-06-22T10:54:14Z"
+                },
                 "template": {
-                    "timestamp": "2:2",
+                    "timestamp": "1:2",
                     "value": "P Margin medium"
+                },
+                "verticalScroll": {
+                    "timestamp": "1:2",
+                    "value": 1872
                 }
             },
             {
                 "id": "00518ed4-7f4d-4bee-925d-c8c227ca66b5",
                 "idx": {
-                    "timestamp": "2:2",
+                    "timestamp": "1:2",
                     "value": "bm"
                 },
                 "modifed": "1781601082881",
+                "scrollTime": {
+                    "timestamp": "1:1",
+                    "value": "2026-06-22T10:54:20Z"
+                },
                 "template": {
-                    "timestamp": "2:2",
+                    "timestamp": "1:2",
                     "value": "P Margin medium"
+                },
+                "verticalScroll": {
+                    "timestamp": "1:1",
+                    "value": 1872
                 }
             },
             {
                 "id": "e1c036a2-34f5-4c75-aa56-6a8bd7a45cca",
                 "idx": {
-                    "timestamp": "2:2",
+                    "timestamp": "1:2",
                     "value": "bn"
                 },
                 "modifed": "1781608422697",
                 "template": {
-                    "timestamp": "2:2",
+                    "timestamp": "1:2",
                     "value": "P Margin medium"
                 }
             },
             {
                 "id": "d2f76af1-dba5-4e02-aac3-42b1faed828b",
                 "idx": {
-                    "timestamp": "2:2",
+                    "timestamp": "1:2",
                     "value": "bo"
                 },
-                "modifed": "1781609542756",
+                "modifed": "1782127444321",
                 "scrollTime": {
-                    "timestamp": "2:1",
-                    "value": "2026-06-16T11:32:22Z"
+                    "timestamp": "1:2",
+                    "value": "2026-06-22T11:32:53Z"
                 },
                 "template": {
-                    "timestamp": "2:2",
+                    "timestamp": "1:2",
                     "value": "P Margin medium"
                 },
                 "verticalScroll": {
-                    "timestamp": "2:1",
+                    "timestamp": "1:2",
                     "value": 1872
                 }
             },
             {
                 "id": "33155f6c-5a00-4732-816d-ed1fca228d76",
                 "idx": {
-                    "timestamp": "2:2",
+                    "timestamp": "1:2",
                     "value": "bp"
                 },
                 "modifed": "1781620458135",
+                "scrollTime": {
+                    "timestamp": "1:1",
+                    "value": "2026-06-22T11:39:00Z"
+                },
                 "template": {
-                    "timestamp": "2:2",
+                    "timestamp": "1:2",
                     "value": "P Margin medium"
+                },
+                "verticalScroll": {
+                    "timestamp": "1:1",
+                    "value": 2495
                 }
             },
             {
                 "id": "2a862fb0-eac0-4619-9229-aa1fb8f2e976",
                 "idx": {
-                    "timestamp": "2:2",
+                    "timestamp": "1:2",
                     "value": "bq"
                 },
                 "modifed": "1781621520886",
+                "scrollTime": {
+                    "timestamp": "1:1",
+                    "value": "2026-06-22T11:45:25Z"
+                },
                 "template": {
-                    "timestamp": "2:2",
+                    "timestamp": "1:2",
                     "value": "P Margin medium"
+                },
+                "verticalScroll": {
+                    "timestamp": "1:1",
+                    "value": 2438
                 }
             },
             {
                 "id": "2b91bf92-f737-4764-8b33-7ff404ee5ca6",
                 "idx": {
-                    "timestamp": "2:2",
+                    "timestamp": "1:2",
                     "value": "br"
                 },
                 "modifed": "1781623982897",
                 "scrollTime": {
-                    "timestamp": "2:1",
+                    "timestamp": "1:1",
                     "value": "2026-06-16T15:33:04Z"
                 },
                 "template": {
-                    "timestamp": "2:2",
+                    "timestamp": "1:2",
                     "value": "P Margin medium"
                 },
                 "verticalScroll": {
-                    "timestamp": "2:1",
+                    "timestamp": "1:1",
                     "value": 2387
                 }
             },
             {
                 "id": "a13d7bca-ec53-44b8-94d0-957f59365ee8",
                 "idx": {
-                    "timestamp": "2:2",
+                    "timestamp": "1:2",
                     "value": "bs"
                 },
                 "modifed": "1781693200023",
                 "scrollTime": {
-                    "timestamp": "2:1",
-                    "value": "2026-06-16T16:25:36Z"
+                    "timestamp": "1:2",
+                    "value": "2026-06-22T14:24:02Z"
                 },
                 "template": {
-                    "timestamp": "2:2",
+                    "timestamp": "1:2",
                     "value": "P Margin medium"
                 },
                 "verticalScroll": {
-                    "timestamp": "2:1",
+                    "timestamp": "1:2",
                     "value": 1872
                 }
             },
             {
                 "id": "5f443bad-16d1-4b2e-af99-eb083c071f4a",
                 "idx": {
-                    "timestamp": "2:2",
+                    "timestamp": "1:2",
                     "value": "bt"
                 },
-                "modifed": "1781628060886",
+                "modifed": "1782138642706",
                 "scrollTime": {
-                    "timestamp": "2:1",
+                    "timestamp": "1:1",
                     "value": "2026-06-16T16:41:57Z"
                 },
                 "template": {
-                    "timestamp": "2:2",
+                    "timestamp": "1:2",
                     "value": "P Margin medium"
                 },
                 "verticalScroll": {
-                    "timestamp": "2:1",
+                    "timestamp": "1:1",
                     "value": 1872
                 }
             },
             {
                 "id": "1bfff18a-d65e-4e22-b127-13acfe7918d2",
                 "idx": {
-                    "timestamp": "2:2",
+                    "timestamp": "1:2",
                     "value": "bu"
                 },
                 "modifed": "1781683034975",
                 "template": {
-                    "timestamp": "2:2",
+                    "timestamp": "1:2",
                     "value": "P Margin medium"
                 }
             },
             {
                 "id": "5896105a-5ed8-4600-b22a-1b6681911b57",
                 "idx": {
-                    "timestamp": "2:2",
+                    "timestamp": "1:2",
                     "value": "bv"
                 },
                 "modifed": "1781684844012",
                 "template": {
-                    "timestamp": "2:2",
+                    "timestamp": "1:2",
                     "value": "P Margin medium"
                 }
             },
             {
                 "id": "3adbbc79-4ae6-43f4-8c31-9ba877d2d3da",
                 "idx": {
-                    "timestamp": "2:2",
+                    "timestamp": "1:2",
                     "value": "bw"
                 },
                 "modifed": "1781690042160",
                 "scrollTime": {
-                    "timestamp": "2:2",
-                    "value": "2026-06-17T10:01:38Z"
+                    "timestamp": "1:3",
+                    "value": "2026-06-22T14:56:38Z"
                 },
                 "template": {
-                    "timestamp": "2:2",
+                    "timestamp": "1:2",
                     "value": "P Margin medium"
                 },
                 "verticalScroll": {
-                    "timestamp": "2:2",
+                    "timestamp": "1:3",
                     "value": 1872
                 }
             },
             {
                 "id": "8fa38355-bbaf-4e59-89e9-6beac3fcd080",
                 "idx": {
-                    "timestamp": "2:2",
+                    "timestamp": "1:2",
                     "value": "bx"
                 },
-                "modifed": "1781690077921",
+                "modifed": "1782140435348",
                 "template": {
-                    "timestamp": "2:2",
+                    "timestamp": "1:2",
                     "value": "P Margin medium"
                 }
             },
             {
                 "id": "ebebd483-6f82-4df0-b8d1-c7946545e896",
                 "idx": {
-                    "timestamp": "2:2",
+                    "timestamp": "1:2",
                     "value": "by"
                 },
                 "modifed": "1781702240308",
                 "scrollTime": {
-                    "timestamp": "2:7",
+                    "timestamp": "1:7",
                     "value": "2026-06-17T13:17:19Z"
                 },
                 "template": {
-                    "timestamp": "2:2",
+                    "timestamp": "1:2",
                     "value": "P Margin medium"
                 },
                 "verticalScroll": {
-                    "timestamp": "2:7",
+                    "timestamp": "1:7",
                     "value": 1872
                 }
             },
             {
                 "id": "89c04ae3-2221-40a0-9185-81892518716f",
                 "idx": {
-                    "timestamp": "2:2",
+                    "timestamp": "1:2",
                     "value": "bz"
                 },
                 "modifed": "1781708837689",
                 "scrollTime": {
-                    "timestamp": "2:5",
+                    "timestamp": "1:5",
                     "value": "2026-06-17T15:09:20Z"
                 },
                 "template": {
-                    "timestamp": "2:2",
+                    "timestamp": "1:2",
                     "value": "P Margin medium"
                 },
                 "verticalScroll": {
-                    "timestamp": "2:5",
+                    "timestamp": "1:5",
                     "value": 1872
                 }
             },
             {
                 "id": "ee014d22-8239-4589-8160-e88e4f32535d",
                 "idx": {
-                    "timestamp": "2:2",
+                    "timestamp": "1:2",
                     "value": "ca"
                 },
-                "modifed": "1781708951822",
+                "modifed": "1782141472709",
                 "scrollTime": {
-                    "timestamp": "2:1",
-                    "value": "2026-06-17T15:09:15Z"
+                    "timestamp": "1:2",
+                    "value": "2026-06-22T15:21:03Z"
                 },
                 "template": {
-                    "timestamp": "2:2",
+                    "timestamp": "1:2",
                     "value": "P Margin medium"
                 },
                 "verticalScroll": {
-                    "timestamp": "2:1",
+                    "timestamp": "1:2",
                     "value": 1872
                 }
             },
             {
                 "id": "39f14625-02ad-43f7-8d6e-341d20d13bc9",
                 "idx": {
-                    "timestamp": "2:2",
+                    "timestamp": "1:2",
                     "value": "cb"
                 },
                 "modifed": "1781716005127",
                 "scrollTime": {
-                    "timestamp": "2:1",
+                    "timestamp": "1:1",
                     "value": "2026-06-18T21:00:18Z"
                 },
                 "template": {
-                    "timestamp": "2:2",
+                    "timestamp": "1:2",
                     "value": "P Margin medium"
                 },
                 "verticalScroll": {
-                    "timestamp": "2:1",
+                    "timestamp": "1:1",
                     "value": 1872
                 }
             },
             {
                 "id": "eef0fba2-a82c-4e48-80a3-a88ae75ac22b",
                 "idx": {
-                    "timestamp": "2:2",
+                    "timestamp": "1:2",
                     "value": "cc"
                 },
-                "modifed": "1781811955980",
+                "modifed": "1782142212706",
                 "template": {
-                    "timestamp": "2:2",
+                    "timestamp": "1:2",
                     "value": "P Margin medium"
                 }
             },
             {
                 "id": "f072c67d-9a3b-4430-9364-62e3c9a90a12",
                 "idx": {
-                    "timestamp": "2:2",
+                    "timestamp": "1:2",
                     "value": "cd"
                 },
                 "modifed": "1781814910731",
                 "scrollTime": {
-                    "timestamp": "2:12",
-                    "value": "2026-06-18T21:58:28Z"
+                    "timestamp": "1:13",
+                    "value": "2026-06-22T18:51:59Z"
                 },
                 "template": {
-                    "timestamp": "2:2",
+                    "timestamp": "1:2",
                     "value": "P Margin medium"
                 },
                 "verticalScroll": {
-                    "timestamp": "2:12",
+                    "timestamp": "1:13",
                     "value": 1872
                 }
             },
             {
                 "id": "f4322e20-9a6d-4cd3-ae73-20e3c0467be1",
                 "idx": {
-                    "timestamp": "2:2",
+                    "timestamp": "1:2",
                     "value": "ce"
                 },
                 "modifed": "1781861691221",
                 "scrollTime": {
-                    "timestamp": "2:4",
-                    "value": "2026-06-18T22:07:06Z"
+                    "timestamp": "1:5",
+                    "value": "2026-06-22T18:59:51Z"
                 },
                 "template": {
-                    "timestamp": "2:2",
+                    "timestamp": "1:2",
                     "value": "P Margin medium"
                 },
                 "verticalScroll": {
-                    "timestamp": "2:4",
+                    "timestamp": "1:5",
                     "value": 1872
                 }
             },
             {
                 "id": "444b80ce-34b5-42c6-90e7-02b2700ede88",
                 "idx": {
-                    "timestamp": "2:2",
+                    "timestamp": "1:2",
                     "value": "cf"
                 },
-                "modifed": "1781863533265",
+                "modifed": "1782155059467",
                 "template": {
-                    "timestamp": "2:2",
+                    "timestamp": "1:2",
                     "value": "P Margin medium"
                 }
             },
             {
                 "id": "ad148de0-f6af-476d-a971-eba70eb2943f",
                 "idx": {
-                    "timestamp": "2:2",
+                    "timestamp": "1:2",
                     "value": "cg"
                 },
                 "modifed": "1781874064484",
                 "scrollTime": {
-                    "timestamp": "2:1",
-                    "value": "2026-06-19T12:30:58Z"
+                    "timestamp": "1:3",
+                    "value": "2026-06-22T19:53:41Z"
                 },
                 "template": {
-                    "timestamp": "2:2",
+                    "timestamp": "1:2",
                     "value": "P Margin medium"
                 },
                 "verticalScroll": {
-                    "timestamp": "2:1",
+                    "timestamp": "1:3",
                     "value": 1872
                 }
             },
             {
                 "id": "279418e5-bd7c-4089-8a89-148e2151e7c7",
                 "idx": {
-                    "timestamp": "2:2",
+                    "timestamp": "1:2",
                     "value": "ch"
                 },
                 "modifed": "1781882282598",
                 "scrollTime": {
-                    "timestamp": "2:2",
-                    "value": "2026-06-19T14:59:38Z"
+                    "timestamp": "1:4",
+                    "value": "2026-06-22T20:07:50Z"
                 },
                 "template": {
-                    "timestamp": "2:2",
+                    "timestamp": "1:2",
                     "value": "P Margin medium"
                 },
                 "verticalScroll": {
-                    "timestamp": "2:2",
+                    "timestamp": "1:4",
                     "value": 1872
                 }
             },
             {
                 "id": "da993843-2ec8-4d4f-9f2d-bdef08dd8417",
                 "idx": {
-                    "timestamp": "2:2",
+                    "timestamp": "1:2",
                     "value": "ci"
                 },
                 "modifed": "1781883498597",
                 "scrollTime": {
-                    "timestamp": "2:2",
-                    "value": "2026-06-19T15:39:11Z"
+                    "timestamp": "1:3",
+                    "value": "2026-06-22T20:18:49Z"
                 },
                 "template": {
-                    "timestamp": "2:2",
+                    "timestamp": "1:2",
                     "value": "P Margin medium"
                 },
                 "verticalScroll": {
-                    "timestamp": "2:2",
+                    "timestamp": "1:3",
                     "value": 1872
                 }
             },
             {
                 "deleted": {
-                    "timestamp": "2:1",
+                    "timestamp": "1:1",
+                    "value": 1
+                },
+                "id": "c1217bbe-8bc9-4533-b10f-b267fe0100b5",
+                "idx": {
+                    "timestamp": "1:2",
+                    "value": "cdb"
+                },
+                "modifed": "1782154040782",
+                "template": {
+                    "timestamp": "1:2",
+                    "value": "P Margin medium"
+                }
+            },
+            {
+                "deleted": {
+                    "timestamp": "1:1",
                     "value": 1
                 },
                 "id": "c9c9d525-09bb-4c09-9b8d-0b47e3b730f9",
                 "idx": {
-                    "timestamp": "2:2",
+                    "timestamp": "1:2",
                     "value": "cf"
                 },
                 "modifed": "1781816306728",
                 "template": {
-                    "timestamp": "2:2",
+                    "timestamp": "1:2",
+                    "value": "P Margin medium"
+                }
+            },
+            {
+                "deleted": {
+                    "timestamp": "1:1",
+                    "value": 1
+                },
+                "id": "efe4b92c-6bdf-4c8a-be0f-d76890fa7e26",
+                "idx": {
+                    "timestamp": "1:2",
+                    "value": "bfb"
+                },
+                "modifed": "1782120524668",
+                "template": {
+                    "timestamp": "1:2",
                     "value": "P Margin medium"
                 }
             }
