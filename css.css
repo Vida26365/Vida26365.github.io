@@ -1,18 +1,33 @@
-body { 
-	font-family: Andale Mono, AndaleMono, monospace;
-    max-width: 42rem; 
-    margin: 2rem auto; 
-    padding: 0 1rem; 
-    background-color: #fff0ff;
+:root {
+  --bg: #fff0ff;
+  --text: #2a1a2a;
+  --accent: #b030b0;
+  --line: #e0b8e0;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #1e1420;
+    --text: #f3e6f3;
+    --accent: #e070e0;
+    --line: #4a3350;
+  }
+}
+
+body {
+  background-color: var(--bg);
+  color: var(--text);
+  line-height: 1.5;
+  font-family: "Andale Mono", AndaleMono, "DejaVu Sans Mono", Menlo, Consolas, monospace;
 }
 
 summary { 
     cursor: pointer; 
     padding: 0.2rem 0; 
     font-weight: 600; 
-    font-size: 2rem;
+    font-size: 1.8rem;
 }
-.children { margin-left: 1.2rem; }
+.children { margin-left: 1.4rem; }
 
 ul { 
     margin: 0.2rem 0 0.4rem; 
@@ -21,4 +36,51 @@ ul {
 
 li { 
     margin: 0.2rem 0; 
+}
+
+a { color: var(--accent); text-underline-offset: 0.2em; }
+a:hover { text-decoration-thickness: 2px; }
+
+code {
+  background: rgba(0, 0, 0, 0.06);
+  padding: 0.1em 0.3em;
+  border-radius: 3px;
+}
+
+::selection { background: var(--accent); color: #fff; }
+
+
+details details > summary { font-size: 1.4rem; }
+details details details > summary { font-size: 1.1rem; }
+
+
+summary:hover { color: var(--accent); }
+
+summary:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+  border-radius: 3px;
+}
+
+
+.children {
+  margin-left: 1.4rem;
+  padding-left: 0.8rem;
+  border-left: 1px solid var(--line);
+}
+
+summary {
+  list-style: none;          /* hides the default triangle */
+}
+summary::-webkit-details-marker { display: none; }
+
+summary::before {
+  content: "▸";
+  display: inline-block;
+  width: 1.2rem;
+  color: var(--accent);
+  transition: transform 0.15s ease;
+}
+details[open] > summary::before {
+  transform: rotate(90deg);
 }
