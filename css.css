@@ -18,7 +18,7 @@ body {
   background-color: var(--bg);
   color: var(--text);
   line-height: 1.5;
-  font-family: "Andale Mono", AndaleMono, "DejaVu Sans Mono", Menlo, Consolas, monospace;
+  font-family: "JetBrains Mono", "Andale Mono", AndaleMono, "DejaVu Sans Mono", Menlo, Consolas, monospace;
 }
 
 summary { 
